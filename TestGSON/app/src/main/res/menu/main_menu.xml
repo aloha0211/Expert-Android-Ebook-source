@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This group uses the default category. -->
+    <group android:id="@+id/menuGroup_Main">
+
+        <item android:id="@+id/menu_no_op"
+            android:title="No Op" />
+            
+        <item android:id="@+id/menu_test_toast"
+            android:title="Test Toast" />
+            
+        <item android:id="@+id/menu_test_json"
+            android:title="Test JSON" />
+        
+        <item android:id="@+id/menu_test_store"
+            android:title="Store JSON" />
+        
+        <item android:id="@+id/menu_test_get"
+            android:title="Retrieve JSON" />
+        
+        <item android:id="@+id/menu_test_preferences"
+            android:title="Test Prefs" />
+        
+        <item android:id="@+id/menu_test_internal"
+            android:title="JSON file" />
+        
+        <item android:id="@id/menu_da_clear"
+         android:title="clear" />
+    </group>
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apptemplate="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    >
+<TextView  
+	android:id="@+id/text1"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Custom Hello"
+    />
+<com.androidbook.custom.CircleView
+	android:id="@+id/circle_view_id"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    apptemplate:strokeWidth="5"
+    apptemplate:strokeColor="@android:color/holo_red_dark" 
+    />    
+<TextView  
+	android:id="@+id/text2"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Debut Text Appears here"
+    />
+</LinearLayout>
+

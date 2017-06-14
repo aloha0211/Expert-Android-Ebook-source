@@ -1,0 +1,16 @@
+<!-- This file is /res/menu/options.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_item1"
+        android:title="Item1"
+        android:icon="@android:drawable/ic_media_previous"
+        android:orderInCategory="0" />
+    <item android:id="@+id/menu_item2"
+        android:title="Item2"
+        android:icon="@android:drawable/ic_media_next"
+        android:orderInCategory="1" />
+
+    <item android:id="@+id/menu_item3"
+        android:title="Item3"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:orderInCategory="1" />
+</menu>

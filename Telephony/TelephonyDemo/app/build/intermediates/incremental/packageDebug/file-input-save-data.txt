@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Apr 10 16:32:02 ICT 2017
+1.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=DEX
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Telephony\\TelephonyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_

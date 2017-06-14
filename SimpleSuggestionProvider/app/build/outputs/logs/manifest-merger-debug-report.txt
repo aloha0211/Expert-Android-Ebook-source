@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:3:7-48
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:6:5-39:16
+	android:label
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:7:15-69
+	android:icon
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:6:18-47
+activity#com.androidbook.search.simplesp.SimpleMainActivity
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:9:19-60
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:8:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:12:27-74
+activity#com.androidbook.search.simplesp.SearchActivity
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:21:2-30:13
+	android:label
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:22:19-56
+	android:launchMode
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:23:19-49
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:21:12-42
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:24:4-27:21
+action#android.intent.action.SEARCH
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:25:8-62
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:25:16-59
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:26:8-67
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:26:18-64
+meta-data#android.app.searchable
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:28:4-29:50
+	android:resource
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:28:15-52
+meta-data#android.app.default_searchable
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:32:2-33:47
+	android:value
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:32:13-58
+provider#com.androidbook.search.simplesp.SimpleSuggestionProvider
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:35:5-37:74
+	android:authorities
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:36:10-100
+	android:name
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:35:15-55
+uses-sdk
+ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:40:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml:40:15-40
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GamePC\AndroidStudioProjects\Learning Android\Expert Android\SimpleSuggestionProvider\app\src\main\AndroidManifest.xml

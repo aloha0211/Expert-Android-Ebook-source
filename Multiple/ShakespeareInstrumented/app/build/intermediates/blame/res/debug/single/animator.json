@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_out.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_in.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_right.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bounce_in_down.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\bounce_in_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_left.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_down.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\Multiple\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\slide_out_down.xml"
+    }
+]

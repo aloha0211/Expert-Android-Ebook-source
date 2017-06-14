@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cc="http://schemas.android.com/apk/res/com.androidbook.compoundControls"    
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    >
+<TextView  
+	android:id="@+id/text2"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Welcome to the Compound Controls"
+    />
+<com.androidbook.compoundControls.DurationControl
+   android:id="@+id/durationControlId"
+    android:orientation="vertical"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    cc:durationUnits="weeks" 
+    /> 
+<TextView  
+	android:id="@+id/text1"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Scratch for debug text"
+    />
+</LinearLayout>
+

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\build\\intermediates\\res\\merged\\debug\\layout\\debug_activity_layout.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\src\\main\\res\\layout\\debug_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup.xml",
+        "source": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Expert Android\\TestForms\\app\\src\\main\\res\\layout\\signup.xml"
+    }
+]
